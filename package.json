@@ -1,0 +1,25 @@
+{
+  "name": "node-express-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.9",
+    "express": "^4.21.2",
+    "multer": "^2.0.2",
+    "react-masonry-css": "^1.0.16",
+    "react-router-dom": "^7.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

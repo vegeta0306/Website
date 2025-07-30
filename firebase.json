@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "source": "New folder/dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
